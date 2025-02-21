@@ -1,6 +1,7 @@
 # Nutrition Label Project
 
-This project is a simple HTML and CSS implementation of a nutrition label, similar to the ones you find on food packaging. The label is styled to be clean and readable, with proper spacing, typography, and layout.
+This project is a simple food nutrition label made with HTML and CSS. It shows information like calories, fats, carbohydrates, and other nutrients per serving.
+
 
 ## Screenshot
 
@@ -8,10 +9,12 @@ This project is a simple HTML and CSS implementation of a nutrition label, simil
 
 ## Features
 
-- **Responsive Design**: The label is designed to be responsive and adjusts to different screen sizes.
+Shows a clear and simple nutrition label.
+Displays calories, fats, carbs, sugars, and protein.
+
 - **Typography**: Uses the "Open Sans" font from Google Fonts for a modern and clean look.
 - **CSS Flexbox**: Utilizes CSS Flexbox for layout and alignment of elements.
-- **Nutrition Information**: Displays detailed nutritional information, including calories, fats, carbohydrates, proteins, and vitamins.
+- **Nutrition Information**: Shows the daily percentage values for each nutrient.Includes Vitamin D, Calcium, Iron, and Potassium.
 
 ## Technologies Used
 
