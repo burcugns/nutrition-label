@@ -4,7 +4,7 @@ This project is a simple HTML and CSS implementation of a nutrition label, simil
 
 ## Screenshot
 
-![Nutrition Label Screenshot](./images/nutrition-label-screenshot.png)
+<img src="./images/nutrition-label-screenshot.png" alt="Nutrition Label Screenshot" width="200" />
 
 ## Features
 
